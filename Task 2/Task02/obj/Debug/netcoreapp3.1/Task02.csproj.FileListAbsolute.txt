@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.exe
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.deps.json
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.json
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.dll
+C:\Users\HP\source\repos\Task 2\Task02\bin\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfo.cs
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.dll
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\HP\source\repos\Task 2\Task02\obj\Debug\netcoreapp3.1\Task02.genruntimeconfig.cache
